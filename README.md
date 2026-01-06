@@ -1,3 +1,5 @@
+This repo is forked from the repo ([github.com/AyushExel/yolov5](https://github.com/AyushExel/yolov5)) that builds the [ultralytics-yolov5 package](https://pypi.org/project/ultralytics-yolov5/).  AyushExel/yolov5 is a fork of the [YOLOv5](https://github.com/ultralytics/yolov5) repo from before the license changed from GPL to AGPL.
+
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
